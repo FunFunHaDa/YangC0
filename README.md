@@ -4,5 +4,4 @@ Example referenced in http://cafe.naver.com/funcc (Third)
  At least 50 minutes per day   
 
 Before : https://github.com/FunFunHaDa/YangC
-
 Next : ?
